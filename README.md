@@ -16,7 +16,7 @@ Generates and saves three types of charts: Monthly Trends, Product Comparison, a
 **Tech Stack :**
 Language: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+**Libraries :** Pandas, NumPy, Matplotlib, Seaborn
 
 **How to Use :**
 Clone the repository to your local machine.
