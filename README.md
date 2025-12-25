@@ -1,4 +1,4 @@
-**Project Overview**
+**Project Overview :**
 This project automates the workflow of a data analyst. It generates a year's worth of sales data for three products, processes that data to find key business insights, and creates visual reports.
 
 **Key Features**
